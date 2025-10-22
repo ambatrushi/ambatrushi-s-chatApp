@@ -1,0 +1,5 @@
+{
+  "name": "React Chat Application",
+  "description": "A modern, real-time chat application interface built with React and Tailwind CSS, featuring a contact list, a dynamic chat window, and user profile settings.",
+  "requestFramePermissions": []
+}
